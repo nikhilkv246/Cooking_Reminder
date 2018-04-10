@@ -1,3 +1,11 @@
+"""
+* cooking.py
+*  A python application that reminds you of your cooking turns.
+*
+*  @author Nikhil KV
+*  @version 04102018
+*
+"""
 import warnings                                                                                                     
 import smtplib                                                                                                      
 from datetime import date                                                                                           
